@@ -1,0 +1,17 @@
+.li {
+  list-style-type: none;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.friendList {
+  display: flex;
+  padding: 0;
+  gap: 10px;
+}
+
+.avatar {
+  width: 50px;
+  border-radius: 50%;
+}
